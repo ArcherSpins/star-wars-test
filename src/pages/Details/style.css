@@ -1,0 +1,10 @@
+.details-header {
+    margin-bottom: 50px;
+}
+
+.details-page {
+    height: 100vh;
+    background-image: url(../../assets/details-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
